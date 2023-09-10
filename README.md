@@ -16,5 +16,6 @@ Welcome to my GitHub repository where I share the projects and experiences from 
 
 Feel free to explore these projects for more details and insights from my internship journey at Prodigy Infotech!
 
-For further contact or inquiries, please feel free to connect with me on [ https://www.linkedin.com/in/harsh-k-aade-144b51206 ]
+**LinkedIn:** Connect with me on [LinkedIn]( https://www.linkedin.com/in/harsh-k-aade-144b51206 ) for professional networking and collaboration opportunities.
+
 
